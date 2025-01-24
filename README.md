@@ -1,5 +1,4 @@
 # **Insight**  
-**Revolutionizing sideline concussion detection using AI and machine learning.**
 
 ---
 
