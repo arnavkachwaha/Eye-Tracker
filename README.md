@@ -1,4 +1,4 @@
-# **Insight Athletics**  
+# **Insight**  
 **Revolutionizing sideline concussion detection using AI and machine learning.**
 
 ---
@@ -28,11 +28,6 @@ Check out our application in action! [Watch the Demo on YouTube](https://www.you
 
 ---
 
-## **Pitch Deck**  
-Dive deeper into our mission, technology, and business model. [View the Pitch Deck](https://www.canva.com/design/DAGcGZ1F76U/i6dAMEEOjG-KJUpRxNsS1A/edit?utm_content=DAGcGZ1F76U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
 ## **Technologies Used**  
 - **Programming Languages**: Python, Swift, JavaScript  
 - **Frameworks**: TensorFlow, Django, SwiftUI  
@@ -45,6 +40,3 @@ Dive deeper into our mission, technology, and business model. [View the Pitch De
 We aim to empower athletes and medical professionals with reliable, accessible tools for concussion detection, reducing the long-term impact of head trauma in sports.  
 
 ---
-
-## **Contact Us**  
-For inquiries or collaboration opportunities, reach out to us at kachabaha19@gmail.com.  
